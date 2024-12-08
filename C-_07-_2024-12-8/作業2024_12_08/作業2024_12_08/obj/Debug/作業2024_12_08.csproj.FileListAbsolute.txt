@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\作業2024_12_08\作業2024_12_08\bin\Debug\作業2024_12_08.exe.config
+C:\Users\user\source\repos\作業2024_12_08\作業2024_12_08\bin\Debug\作業2024_12_08.exe
+C:\Users\user\source\repos\作業2024_12_08\作業2024_12_08\bin\Debug\作業2024_12_08.pdb
+C:\Users\user\source\repos\作業2024_12_08\作業2024_12_08\obj\Debug\作業2024_12_08.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\作業2024_12_08\作業2024_12_08\obj\Debug\作業2024_12_08.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\作業2024_12_08\作業2024_12_08\obj\Debug\作業2024_12_08.exe
+C:\Users\user\source\repos\作業2024_12_08\作業2024_12_08\obj\Debug\作業2024_12_08.pdb
